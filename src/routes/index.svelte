@@ -1,6 +1,5 @@
 <script>
     let routes = [
-        {'url': 'seven', 'title': 'Seven sages laid its foundations'},
         {'url': 'contact', 'title': 'Contact'},
     ];
 </script>
