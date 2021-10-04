@@ -7,6 +7,9 @@
 
 <main>
     <h1>FOLKE SVERDRUP SAENGER</h1>
+    <p>folke@sverdrupsaenger.com, architect and editor at large</p>
+    
+    <br/> 
     {#each routes as route}
         <a href="/{route.url}">
             {route.title}
