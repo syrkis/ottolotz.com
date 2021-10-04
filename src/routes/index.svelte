@@ -1,5 +1,6 @@
 <script>
     let routes = [
+        {'url': 'articles', 'title': 'Written works'},
         {'url': 'contact', 'title': 'Contact'},
     ];
 </script>
