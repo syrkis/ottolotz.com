@@ -1,7 +1,7 @@
 <script>
     let routes = [
         {'url': 'seven', 'title': 'Seven sages laid its foundations'},
-        {'url': 'sun', 'title': 'The sun hitches up her skirt for Utnapishtim'},
+        {'url': 'contact', 'title': 'Contact'},
     ];
 </script>
 
