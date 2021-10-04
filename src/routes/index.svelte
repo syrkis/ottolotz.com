@@ -14,7 +14,7 @@
 </script>
 
 <main>
-    <h1>Thor Tao Hansen</h1>
+    <h1>FOLKE</h1>
     {#each routes as route}
         <a href="/{route.url}">
             {route.title}
